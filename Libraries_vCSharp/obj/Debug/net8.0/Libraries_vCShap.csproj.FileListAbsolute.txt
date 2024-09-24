@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\bin\Debug\net8.0\Libraries_vCShap.exe
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\bin\Debug\net8.0\Libraries_vCShap.deps.json
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\bin\Debug\net8.0\Libraries_vCShap.runtimeconfig.json
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\bin\Debug\net8.0\Libraries_vCShap.dll
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\bin\Debug\net8.0\Libraries_vCShap.pdb
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCShap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCShap.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCShap.AssemblyInfo.cs
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCShap.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCShap.dll
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\refint\Libraries_vCShap.dll
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCShap.pdb
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCShap.genruntimeconfig.cache
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\ref\Libraries_vCShap.dll

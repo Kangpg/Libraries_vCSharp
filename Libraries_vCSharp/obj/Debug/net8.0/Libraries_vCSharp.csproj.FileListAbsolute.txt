@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCSharp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCSharp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCSharp.AssemblyInfo.cs
+C:\Users\User\source\repos\Libraries_vCShap\Libraries_vCShap\obj\Debug\net8.0\Libraries_vCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Libraries_vCSharp\Libraries_vCSharp\obj\Debug\net8.0\Libraries_vCSharp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Libraries_vCSharp\Libraries_vCSharp\obj\Debug\net8.0\Libraries_vCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Libraries_vCSharp\Libraries_vCSharp\obj\Debug\net8.0\Libraries_vCSharp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Libraries_vCSharp\Libraries_vCSharp\obj\Debug\net8.0\Libraries_vCSharp.AssemblyInfo.cs
+C:\Users\User\source\repos\Libraries_vCSharp\Libraries_vCSharp\obj\Debug\net8.0\Libraries_vCSharp.csproj.CoreCompileInputs.cache
